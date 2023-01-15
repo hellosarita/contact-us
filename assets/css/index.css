@@ -1,11 +1,11 @@
 @font-face {
     font-family: TitlingGothicFBWide-Bold;
-    src: url(https://clubsullivan.vercel.app/_next/static/media/TitlingGothicFBWide-Bold.ec13a1ec.otf) 
+    src: url(https://clubsullivan.vercel.app/fonts/TitlingGothicFBWide-Bold.otf) 
 }
 
 @font-face {
     font-family: BeautifulScarlet-Regular;
-    src: url(https://clubsullivan.vercel.app/_next/static/media/BeautifulScarlet-Regular.a34bfe15.otf);
+    src: url(https://clubsullivan.vercel.app/fonts/BeautifulScarlet-Regular.otf);
 }
 @media (max-width: 991.98px)  {
     .Contact_contactSec__SxDm1 {
